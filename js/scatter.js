@@ -4,7 +4,7 @@ var settings = {
   width:900, 
   height:400, 
   radius:7,
-  padding:50
+  padding:150
 }
 
 // DEFINE SCALES
@@ -69,6 +69,13 @@ var yAxisFunction = d3.svg.axis()
 var yAxis = d3.select('#my-g').append('g').attr('class', 'axis')
     .attr('transform', 'translate(0,0)')
     .call(yAxisFunction)
+	
+// Axis labels	
+xvartitle = "N-code"
+var xaxislabel = d3.select('#my-g').append("text").attr("class", "label").attr('transform', 'translate(' + settings.width/2 + ',' + 450 + ')').text(xvartitle)
+
+yvartitle = "Probability"
+var yaxislabel = d3.select('#my-g').append("text").attr("class", "label").attr('transform', 'translate(' + -75 + ',' + settings.height/2 + ') rotate(270)').text(yvartitle)
 
 var update = function(data) {
     var rects = myG.selectAll('rect').data(data, function(d){return d.ncode})
