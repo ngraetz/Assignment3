@@ -1,0 +1,44 @@
+n_code,inpatient,mean,year,ncode_name,ncode_name_short,ncode
+"N1",1,1,2013,"Amputation of both lower limbs","amp both lower",1
+"N10",1,.7886254,2013,"Lower airway burns","airway burns",10
+"N11",1,.9969938,2013,"Dislocation of hip","disloc hip",11
+"N12",1,.156155,2013,"Dislocation of knee","disloc knee",12
+"N13",1,.0486407,2013,"Dislocation of shoulder","disloc shoulder",13
+"N14",1,.997771,2013,"Other injuries of muscle & tendon and other dislocations","other disloc",14
+"N15",1,.4616309,2013,"Fracture of clavicle, scapula, or humerus","fract clavicle/others",15
+"N16",1,.2779582,2013,"Fracture of face bone","fract face",16
+"N17",1,.9994263,2013,"Fracture of foot bone","fract foot",17
+"N18",1,.8483185,2013,"Fracture of hand bone","fract hand",18
+"N19",1,1,2013,"Fracture of neck of femur","fract neck of femur",19
+"N2",1,1,2013,"Amputation of both upper limbs","amp both upper",2
+"N20",1,1,2013,"Fracture of patella, tibia, fibula, or ankle","fract patella/others",20
+"N21",1,.3371986,2013,"Fracture of pelvis","fract pelvis",21
+"N22",1,.4797788,2013,"Fracture of radius or ulna","fract radius/ulna",22
+"N23",1,.689898,2013,"Fracture of skull","fract skull",23
+"N24",1,.1665469,2013,"Fracture of sternum or rib(s)","fract sternum/ribs",24
+"N25",1,.4860595,2013,"Fracture of vertebral column","fract vertebral c",25
+"N26",1,1,2013,"Fracture of femur, other than femoral neck","fract femur",26
+"N27",1,.5519395,2013,"Minor traumatic brain injury","minor TBI",27
+"N28",1,.56186,2013,"Moderate to severe traumatic brain injury","mod/severe TBI",28
+"N3",1,1,2013,"Amputation of finger (excluding thumb)","amp finger",3
+"N33",1,.2532412,2013,"Spinal cord lesion at neck level","spinal les at neck",33
+"N34",1,.7252885,2013,"Spinal cord lesion below neck level","spinal les below neck",34
+"N35",1,.024244,2013,"Non-fatal submersion","submersion",35
+"N36",1,.024244,2013,"Asphyxiation","asphyxiation",36
+"N37",1,.5030606,2013,"Crush injury","crush inj",37
+"N38",1,.986097,2013,"Injured nerves","injured nerves",38
+"N39",1,.535474,2013,"Injury to eyes (including foreign body eye)","eye inj",39
+"N4",1,1,2013,"Amputation of one lower limb","amp 1 lower",4
+"N40",1,.9974149,2013,"Open wound","open wound",40
+"N41",1,.0704518,2013,"Poisoning","poisin",41
+"N42",1,.6212282,2013,"Severe chest Injury","sev chest inj",42
+"N43",1,.6657317,2013,"Internal hemorrhage in abdomen or pelvis","hemorr abdomen",43
+"N44",1,.9976745,2013,"Contusion","contusion",44
+"N45",1,.9008635,2013,"Environmental factors (e.g. temperature, pressure, electricity)","environ factors",45
+"N46",1,.975513,2013,"Complications of medical treatment","medical complic",46
+"N48",1,.9988433,2013,"Multiple significant injuries","multiple sig injs",48
+"N5",1,1,2013,"Amputation of one upper limb","amp 1 upper",5
+"N6",1,1,2013,"Amputation of thumb","amp thumb",6
+"N7",1,1,2013,"Amputation of toe","amp toe",7
+"N8",1,.5215389,2013,"Burns with <20% total burned surface area","burns <20%",8
+"N9",1,.5215389,2013,"Burns with >=20% total burned surface area or >=10% if burns include face and/or hands","burns >=20%",9

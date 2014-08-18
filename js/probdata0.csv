@@ -1,0 +1,34 @@
+n_code,inpatient,mean,year,ncode_name,ncode_name_short,ncode
+"N11",0,.6643082,2013,"Dislocation of hip","disloc hip",11
+"N12",0,.0428205,2013,"Dislocation of knee","disloc knee",12
+"N13",0,.0095329,2013,"Dislocation of shoulder","disloc shoulder",13
+"N14",0,.0010623,2013,"Other injuries of muscle & tendon and other dislocations","other disloc",14
+"N15",0,.1152625,2013,"Fracture of clavicle, scapula, or humerus","fract clavicle/others",15
+"N16",0,.0015983,2013,"Fracture of face bone","fract face",16
+"N17",0,.0414122,2013,"Fracture of foot bone","fract foot",17
+"N18",0,.4079335,2013,"Fracture of hand bone","fract hand",18
+"N19",0,.6237262,2013,"Fracture of neck of femur","fract neck of femur",19
+"N20",0,.6613107,2013,"Fracture of patella, tibia, fibula, or ankle","fract patella/others",20
+"N21",0,.1944862,2013,"Fracture of pelvis","fract pelvis",21
+"N22",0,.1566672,2013,"Fracture of radius or ulna","fract radius/ulna",22
+"N23",0,.689898,2013,"Fracture of skull","fract skull",23
+"N24",0,.1665469,2013,"Fracture of sternum or rib(s)","fract sternum/ribs",24
+"N25",0,.4508372,2013,"Fracture of vertebral column","fract vertebral c",25
+"N26",0,.2593482,2013,"Fracture of femur, other than femoral neck","fract femur",26
+"N27",0,.0370466,2013,"Minor traumatic brain injury","minor TBI",27
+"N3",0,.5853956,2013,"Amputation of finger (excluding thumb)","amp finger",3
+"N35",0,0,2013,"Non-fatal submersion","submersion",35
+"N36",0,0,2013,"Asphyxiation","asphyxiation",36
+"N38",0,.0679348,2013,"Injured nerves","injured nerves",38
+"N39",0,.0100323,2013,"Injury to eyes (including foreign body eye)","eye inj",39
+"N40",0,.0559665,2013,"Open wound","open wound",40
+"N41",0,.0704518,2013,"Poisoning","poisin",41
+"N42",0,.0895258,2013,"Severe chest Injury","sev chest inj",42
+"N43",0,.1685119,2013,"Internal hemorrhage in abdomen or pelvis","hemorr abdomen",43
+"N44",0,.2929966,2013,"Contusion","contusion",44
+"N45",0,.1050714,2013,"Environmental factors (e.g. temperature, pressure, electricity)","environ factors",45
+"N46",0,.2153414,2013,"Complications of medical treatment","medical complic",46
+"N48",0,.8014012,2013,"Multiple significant injuries","multiple sig injs",48
+"N6",0,.5853956,2013,"Amputation of thumb","amp thumb",6
+"N7",0,1,2013,"Amputation of toe","amp toe",7
+"N8",0,.5215389,2013,"Burns with <20% total burned surface area","burns <20%",8
