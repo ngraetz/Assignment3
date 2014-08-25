@@ -85,6 +85,7 @@ var update = function(data) {
 	rects.transition().duration(1000).call(rectFunction)
 }
 
+update(data_inpatient)
 
 // Legend function
 /*
